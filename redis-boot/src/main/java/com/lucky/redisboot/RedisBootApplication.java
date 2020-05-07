@@ -10,4 +10,6 @@ public class RedisBootApplication {
         SpringApplication.run(RedisBootApplication.class, args);
     }
 
+
+
 }
